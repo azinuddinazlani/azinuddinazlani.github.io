@@ -79,4 +79,4 @@ azinuddinazlani@yahoo.com | +60145267116 | Bangsar, Kuala Lumpur.
 
 *Reference available upon request*
 
-[Download PDF Resume](./resume.pdf) <!-- Add this line after you upload your PDF resume -->
+[Download PDF Resume](./Azinuddin_Azlani_2025_Resume.pdf) <!-- Add this line after you upload your PDF resume -->
