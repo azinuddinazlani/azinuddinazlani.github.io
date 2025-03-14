@@ -1,4 +1,4 @@
-# 
+# AZINUDDIN AZLANI
 
 ## Contact Information
 📍 Bangsar, Kuala Lumpur  
@@ -64,9 +64,9 @@
 - **Basic Indonesian**: Good at speaking and understanding
 
 ### Technical Skills
-- **Operational Knowledge**: Salesforce, Google Cloud Platform, MongoDB
-- **Proficient**: Python, Kubernetes, Linux, AI
-- **Basic Knowledge**: JavaScript, Vue.Js/Vuetify, GitHub, SQL
+- **Operational Knowledge**: Salesforce, Google Cloud Platform, MongoDB, GitHub
+- **Proficient**: Python, Kubernetes, Linux, AI, SQL
+- **Basic Knowledge**: JavaScript, Vue.Js/Vuetify, Docker, ML
 
 ### Interpersonal Skills
 - A proactive, passionate, and committed worker
