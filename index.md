@@ -1,7 +1,9 @@
-# AZINUDDIN BIN AZLANI
-*Software / AI Engineer*
+# *Software / AI Engineer*
 
-azinuddinazlani@yahoo.com | +60145267116 | Bangsar, Kuala Lumpur.
+## Contact Information
+📍 Bangsar, Kuala Lumpur  
+💼 [LinkedIn Profile](https://www.linkedin.com/in/azinuddinazlani/) | 🌐 [GitHub Profile](https://github.com/azinuddinazlani)  
+📧 *Email available via LinkedIn or upon request*
 
 ## Professional Experience
 
