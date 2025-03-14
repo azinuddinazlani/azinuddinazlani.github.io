@@ -1,4 +1,4 @@
-# *Software / AI Engineer*
+# AZINUDDIN BIN AZLANI
 
 ## Contact Information
 📍 Bangsar, Kuala Lumpur  
