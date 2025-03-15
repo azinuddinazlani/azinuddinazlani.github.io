@@ -21,7 +21,15 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p class="role-title">{{ site.description | default: site.github.project_tagline }}</p>
+
+        <!-- Add professional summary -->
+        {% if site.summary %}
+        <div class="summary-info">
+          <h3>Professional Summary</h3>
+          <p>{{ site.summary }}</p>
+        </div>
+        {% endif %}
 
         <!-- Add contact information -->
         {% if site.contact %}

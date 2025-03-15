@@ -9,23 +9,6 @@ layout: default
   <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
-<p align="center">
-  <img src="profile.JPG" class="profile-img">
-</p>
-
-# AZINUDDIN AZLANI
-
-## 📌 Contact Information
-📍 Bangsar, Kuala Lumpur  
-💼 [LinkedIn Profile](https://www.linkedin.com/in/azinuddinazlani/) | 🌐 [GitHub Profile](https://github.com/azinuddinazlani)  
-📧 *Email available via LinkedIn or upon request*
-
----
-
-## 👨‍💻 Professional Summary
-Software & AI Engineer with experience in **platform support and technical troubleshooting**. Skilled in Python, Kubernetes, and cloud technologies. Recently completed Full Stack Software Development certification with focus on AI applications.
-
----
 
 ## 💼 Professional Experience
 
