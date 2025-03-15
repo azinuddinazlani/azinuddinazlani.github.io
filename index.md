@@ -47,23 +47,23 @@ layout: default
 ## 🎓 Education
 
 ### FULL STACK SOFTWARE DEVELOPMENT CERTIFICATION
-**Gamuda AI Academy**
+**Gamuda AI Academy** | *2025*
 
 ### BACHELOR OF COUNSELING (HONS)
-**Management & Science University**
+**Management & Science University** | *2015 – 2019*
 
 ### DIPLOMA OF BUILDING SURVEY
-**UiTM Sri Iskandar**
+**UiTM Sri Iskandar** | *2011 – 2014*
 
 ---
 
 ## 🏆 Achievements
 
-- Developed an **AI-powered web application** for HR recruiters, effectively addressing key challenges in talent acquisition and management (Capstone Project) - 2025
-- Successfully completed the **Fullstack Software Engineering program** at Gamuda AI Academy, enhancing technical expertise and proficiency in software development - 2025
-- Achieved **Certified Kubernetes Administrator (CKA)** certification - 2024
-- Built webapp as group final project for Convergence Certification and Skills Development (CCSD) certificate - 2024
-- Selected as Yayasan Peneraju's scholar for **Peneraju Teknologi Certified DevOps Practitioner** program - 2024
+- Developed an **AI-powered web application** for HR recruiters, effectively addressing key challenges in talent acquisition and management (Capstone Project) | 2025
+- Successfully completed the **Fullstack Software Engineering program** at Gamuda AI Academy, enhancing technical expertise and proficiency in software development | 2025
+- Achieved **Certified Kubernetes Administrator (CKA)** certification | 2024
+- Built webapp as group final project for Convergence Certification and Skills Development (CCSD) certificate | 2024
+- Selected as Yayasan Peneraju's scholar for **Peneraju Teknologi Certified DevOps Practitioner** program | 2024
 
 ---
 
