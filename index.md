@@ -1,4 +1,5 @@
-# AZINUDDIN AZLANI
+## Professional Summary
+Software Engineer and AI Specialist with experience in platform support and technical troubleshooting. Skilled in Python, Kubernetes, and cloud technologies. Recently completed Full Stack Software Development certification with focus on AI applications.
 
 ## Contact Information
 📍 Bangsar, Kuala Lumpur  
@@ -81,4 +82,4 @@
 
 *Reference available upon request*
 
-[Download PDF Resume](./Azinuddin_Azlani_2025_Resume.pdf) <!-- Add this line after you upload your PDF resume -->
+[Download PDF Resume](./Azinuddin_Azlani_2025_Resume.pdf)
