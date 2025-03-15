@@ -1,4 +1,8 @@
 title: "AZINUDDIN AZLANI"
-description: "Software / AI Engineer"
+description: "Software & AI Engineer"
+logo: "profile.jpg"
 theme: jekyll-theme-minimal
 show_downloads: false
+# google_analytics: # Add your tracking ID if you want analytics
+plugins:
+  - jekyll-seo-tag
