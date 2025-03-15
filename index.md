@@ -10,7 +10,7 @@ layout: default
 </head>
 
 <p align="center">
-  <img src="profile.jpg" class="profile-img">
+  <img src="profile.JPG" class="profile-img">
 </p>
 
 # AZINUDDIN AZLANI
