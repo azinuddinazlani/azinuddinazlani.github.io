@@ -5,7 +5,7 @@ layout: default
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Azinuddin Azlani - Software Engineer and AI Specialist">
+  <meta name="description" content="Azinuddin Azlani - Software & AI Engineer">
   <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 

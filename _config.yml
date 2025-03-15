@@ -6,3 +6,10 @@ show_downloads: false
 # google_analytics: # Add your tracking ID if you want analytics
 plugins:
   - jekyll-seo-tag
+
+  # Contact information for sidebar
+contact:
+  location: "Bangsar, Kuala Lumpur"
+  linkedin: "https://www.linkedin.com/in/azinuddinazlani/"
+  github: "https://github.com/azinuddinazlani"
+  email_note: "Email available upon request"
