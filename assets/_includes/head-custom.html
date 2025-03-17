@@ -23,15 +23,15 @@
   
   <!-- Fix for browser tab title -->
 <script>
-    document.title = "{{ site.page_title | default: site.title }}";
+  window.addEventListener('load', function() {
+    // Try multiple selectors to find the image
+    var profileImg = document.querySelector('img[src*="/assets/images/profile.JPG"]') || 
+                     document.querySelector('img[src$="profile.JPG"]') ||
+                     document.querySelector('header img');
     
-    // Additional JavaScript to ensure the image is round after page load
-    document.addEventListener('DOMContentLoaded', function() {
-      var profileImg = document.querySelector('header img');
-      if (profileImg) {
-        profileImg.style.borderRadius = '50%';
-        profileImg.style.border = '3px solid #fff';
-        profileImg.style.boxShadow = '0 3px 10px rgba(0,0,0,0.1)';
-      }
-    });
+    if (profileImg) {
+      // Force the styles with !important equivalent in JS
+      profileImg.style.cssText = 'border-radius: 50% !important; border: 3px solid #fff !important; box-shadow: 0 3px 10px rgba(0,0,0,0.1) !important; max-width: 150px !important; display: block !important; margin: 0 auto 20px !important;';
+    }
+  });
 </script>
