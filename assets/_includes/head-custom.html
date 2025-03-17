@@ -1,18 +1,36 @@
 <!-- Custom styles to ensure profile image is round -->
 <style>
-    header img {
+    /* Target the image with extreme specificity and !important */
+    body .wrapper header img[src*="profile.JPG"],
+    body .wrapper header img[src*="profile.jpg"],
+    body > div.wrapper > header > img {
       border-radius: 50% !important;
       border: 3px solid #fff !important;
       box-shadow: 0 3px 10px rgba(0,0,0,0.1) !important;
       max-width: 150px !important;
       display: block !important;
       margin: 0 auto 20px !important;
+      overflow: hidden !important;
+    }
+    
+    /* Additional attempt with attribute selector */
+    img[alt="Logo"] {
+      border-radius: 50% !important;
+      border: 3px solid #fff !important;
     }
   </style>
   
   <!-- Fix for browser tab title -->
   <script>
     document.title = "{{ site.page_title | default: site.title }}";
+    
+    // Additional JavaScript to ensure the image is round after page load
+    document.addEventListener('DOMContentLoaded', function() {
+      var profileImg = document.querySelector('header img');
+      if (profileImg) {
+        profileImg.style.borderRadius = '50%';
+        profileImg.style.border = '3px solid #fff';
+        profileImg.style.boxShadow = '0 3px 10px rgba(0,0,0,0.1)';
+      }
+    });
   </script>
-  
-  <!-- Any additional custom head elements can go here -->

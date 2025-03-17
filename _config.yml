@@ -13,7 +13,6 @@ plugins:
 contact:
   location: "Bangsar, Kuala Lumpur"
   linkedin: "https://www.linkedin.com/in/azinuddinazlani/"
-  github: "https://github.com/azinuddinazlani"
 
 # Professional summary for sidebar
 summary: "Software & AI Engineer with experience in platform support and technical troubleshooting. Skilled in Python, Kubernetes, and cloud technologies. Recently completed Full Stack Software Development certification with focus on AI applications."
