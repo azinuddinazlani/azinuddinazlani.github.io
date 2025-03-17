@@ -1,3 +1,6 @@
+---
+---
+
 @import "{{ site.theme }}";
 
 /* Base styles */
@@ -175,9 +178,9 @@ strong {
 /* Adjust header image size */
 header img {
   max-width: 150px;
-  border-radius: 50%;
-  border: 3px solid #fff;
-  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+  border-radius: 50% !important;
+  border: 3px solid #fff !important;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.1) !important;
   display: block;
   margin: 0 auto 20px;
 }
