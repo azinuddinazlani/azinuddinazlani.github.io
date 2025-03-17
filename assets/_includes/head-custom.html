@@ -1,0 +1,18 @@
+<!-- Custom styles to ensure profile image is round -->
+<style>
+    header img {
+      border-radius: 50% !important;
+      border: 3px solid #fff !important;
+      box-shadow: 0 3px 10px rgba(0,0,0,0.1) !important;
+      max-width: 150px !important;
+      display: block !important;
+      margin: 0 auto 20px !important;
+    }
+  </style>
+  
+  <!-- Fix for browser tab title -->
+  <script>
+    document.title = "{{ site.page_title | default: site.title }}";
+  </script>
+  
+  <!-- Any additional custom head elements can go here -->
