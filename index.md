@@ -2,14 +2,6 @@
 layout: default
 ---
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Azinuddin Azlani - Software & AI Engineer">
-  <link rel="stylesheet" type="text/css" href="style.css">
-</head>
-
-
 ## 💼 Professional Experience
 
 ### 🚀 Platform Experience Analyst
@@ -92,7 +84,7 @@ layout: default
 
 ## 📄 Download Resume
 <p align="center">
-  <a class="resume-download" href="./Azinuddin_Azlani_2025_Resume.pdf">📄 Download My Resume</a>
+  <a class="resume-download" href="{{ '/assets/docs/Azinuddin_Azlani_2025_Resume.pdf' | relative_url }}">📄 Download My Resume</a>
 </p>
 
 ---
