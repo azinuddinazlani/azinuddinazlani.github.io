@@ -190,7 +190,7 @@ footer p {
 
 /* Role title styling (highlighted) */
 .role-title {
-  font-size: 1.5em;
+  font-size: 1.6em;
   color: #0044cc;
   font-weight: bold;
   margin-bottom: 15px;
@@ -208,7 +208,7 @@ footer p {
 .summary-info h3 {
   margin-bottom: 10px;
   color: #0044cc;
-  font-size: 1.5em;
+  font-size: 1.4em;
   border-bottom: 1px solid #e1e4e8;
   padding-bottom: 5px;
 }
