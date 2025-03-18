@@ -1,7 +1,6 @@
 title: "AZINUDDIN AZLANI"
 description: "<strong>Software & AI Engineer</strong>"
 tagline: "Azinuddin Azlani - Software & AI Engineer"
-page_title: "Azinuddin Azlani | Software & AI Engineer"
 logo: "/assets/images/profile.JPG"
 theme: jekyll-theme-minimal
 show_downloads: false
@@ -13,6 +12,7 @@ plugins:
 contact:
   location: "Bangsar, Kuala Lumpur"
   linkedin: "https://www.linkedin.com/in/azinuddinazlani/"
+  github: "https://github.com/azinuddinazlani"
 
 # Professional summary for sidebar
 summary: "Software & AI Engineer with experience in platform support and technical troubleshooting. Skilled in Python, Kubernetes, and cloud technologies. Recently completed Full Stack Software Development certification with focus on AI applications."

@@ -2,6 +2,13 @@
 layout: default
 ---
 
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Azinuddin Azlani - Software & AI Engineer">
+  <link rel="stylesheet" type="text/css" href="assets\styles\style.css">
+</head>
+
 ## 💼 Professional Experience
 
 ### 🚀 Platform Experience Analyst
@@ -38,7 +45,7 @@ layout: default
 
 ## 🎓 Education
 
-### FULL STACK SOFTWARE DEVELOPMENT CERTIFICATION
+### FULL-STACK SOFTWARE DEVELOPMENT CERTIFICATION
 **Gamuda AI Academy** | *2025*
 
 ### BACHELOR OF COUNSELING (HONS)
